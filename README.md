@@ -31,7 +31,11 @@ Please install the following before starting the application
   pip install pandas
 
 ```
-In case of issues, please see the requirements.txt for a complete list of packages with versions needed to run this application
+In case of issues, please see the requirements.txt for a complete list of packages with versions needed to run this application or install all the required packages using the requirements.txt as shown below:
+
+```python
+  pip install -r requirements.txt
+```
 
 ---
 
