@@ -1,5 +1,5 @@
-# berkeley_fintech_module_18_challenge
-Create and validate blockchain using streamlit
+# Berkeley Fintech Module 18 Challenge
+Create and validate a blockchain using Streamlit
 
 Multiple blocks of the block chain:
 ![Screenshot 1](Images/screen_shot_1.png)
@@ -37,9 +37,9 @@ In case of issues, please see the requirements.txt for a complete list of packag
 
 ## Usage
 
-Please down the project or clone the project using git clone
+Please download the project or clone the project using git clone
 
-Please execute the following on the command line:
+Please execute the following on the command line in the project directory:
 
 ```python
 streamlit run pychain.py
