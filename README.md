@@ -48,7 +48,7 @@ Please execute the following on the command line in the project directory:
 ```python
 streamlit run pychain.py
 ```
-strealmlit should open automatically in a browser. 
+streamlit should open automatically in a browser. 
 If it does not, please follow the instructions on the command line.
 
 ---
